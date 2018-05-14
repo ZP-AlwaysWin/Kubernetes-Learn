@@ -4,7 +4,7 @@
 
 ##### 1. kubenetes无法创建pod/创建RC时无法自动创建pod的问题
 
-![](E:\桌面文档\K8S Mkdocs\Kubernetes-Learn\1524369792(1).jpg)
+![](https://github.com/ZP-AlwaysWin/Kubernetes-Learn/blob/master/1524369792(1).jpg)
 
 创建pod:
 
